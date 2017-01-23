@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit  Intent Demo</string>
+    <string name="dial">Dial</string>
+    <string name="upload">Upload</string>
+</resources>
